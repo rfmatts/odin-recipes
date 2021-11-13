@@ -1,5 +1,18 @@
 * {
     background-color:burlywood;
     font-family: sans-serif;
-    color:saddlebrown ;    
+    color:saddlebrown ;   
+}
+
+a:link {
+    text-decoration: none;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+h1 {
+    text-align: center;
 }
