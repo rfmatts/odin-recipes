@@ -6,6 +6,11 @@
 
 a:link {
     text-decoration: none;
+    
+}
+
+a:hover {
+    font-weight: bold;
 }
 
 img {
@@ -14,5 +19,6 @@ img {
 }
 
 h1 {
+    text-transform: uppercase;
     text-align: center;
 }
