@@ -1,13 +1,18 @@
 * {
-    background-color:burlywood;
+    /*background-color:burlywood;*/
     font-family: sans-serif;
     color:saddlebrown ;
 }
 
+p {
+    margin-block: 0px;
+}
+
 a:link {
     text-decoration: none;
-    
 }
+
+/* Removes uderlining from links*/
 
 a:hover {
     font-weight: bold;
