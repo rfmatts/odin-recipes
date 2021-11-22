@@ -20,10 +20,50 @@ a:hover {
 
 img {
     height: auto;
-    width: 250px;
+    width: 350px;
+    border-radius: 20px;
+    border-width: 5px;
 }
 
 h1 {
     text-transform: uppercase;
     text-align: center;
+}
+
+h2 {
+    margin-left: 5px;
+}
+
+.title {
+    padding: 10px;
+    position: static;
+    overflow: auto;
+    zoom:1;
+}
+
+.photo {
+    float: right;
+    margin-left: 10px;
+    border-style: solid;
+    border-color: saddlebrown;
+}
+
+.main-image {
+    margin: 10px;
+    width: 350px;
+    border-style: solid;
+    border-color: saddlebrown;
+}
+
+
+.photo:hover{
+
+}
+
+.description {
+
+}
+
+li {
+    justify-content: left;
 }
